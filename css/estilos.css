@@ -22,7 +22,7 @@ html, body {
     display: flex; /* Establece el modelo de caja flexible */
     gap: 0.1vw; /* Espacio entre los elementos hijos */
     box-sizing: border-box; /* Incluye el padding y border en el ancho total */
-    background-image: url('/images/biblioteca.jpg'); /* Imagen de fondo */
+    background-image: url('./images/biblioteca.jpg'); /* Imagen de fondo */
     background-size: cover; /* Cubre todo el contenedor */
     background-position: center; /* Posición centrada */
     padding-top: 50px; /* Espaciado superior adicional */
